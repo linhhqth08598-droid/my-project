@@ -1,4 +1,4 @@
-Nội dung từ nhánh MAIN
+Nội dung từ nhánh THU-NGHIEM
 # 📘 TỪ ĐIỂN TOÀN THƯ LINHSCRIPT (HQL) - CHI TIẾT TỪNG LỆNH
 **Tác giả:** Hà Quang Linh (2009) | **Phiên bản Engine:** 1.0 (2026)
 
